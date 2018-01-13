@@ -45,4 +45,4 @@ Krzysztof @ Seaside Customs
 
 ## Special THNX
 
-This board was designed with huge support form Fabrykator.pl comunity. Special thnx to: Miś, Garreth, mcexperts, PPJ
+This board was designed with huge support form Fabrykator.pl comunity. Special thnx for: Miś, Garreth, mcexperts, PPJ
