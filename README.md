@@ -2,6 +2,8 @@
 
 Modular 3D printer driver working as a shield for 32-bit ARM based Arduino DUE.
 
+![Board](due3dom.jpg?raw=true "Board")
+
 ## Features:
 * 20A channel for bed heating (20A fuse) with own power socket
 * 2x 10A channel for head heating (10A fuse) with own power socket
